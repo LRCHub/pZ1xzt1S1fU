@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "眠る時にあなたの声を",
+  "base_artist": "Anna",
+  "createdAt": "2025-12-13T11:42:41.433384Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "眠る時にあなたの声を",
+      "artist": "Anna",
+      "has_synced": true,
+      "path": "select/01_眠る時にあなたの声を_Anna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "眠る時にあなたの声を",
+      "artist": "Anna",
+      "has_synced": false,
+      "path": "select/pl_01_眠る時にあなたの声を_Anna.txt"
+    }
+  ]
+}
